@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atesh1710
-- 👀 I’m interested in C++,javascript,Html,CSS;
-- 🌱 I’m currently learning DSA and Javascript,HTML&CSS;
+- 👀 I’m interested in Software Development / Engineering;
+- 🌱 I’m currently learning Data Structures & Algorithms;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :- E-mail on Ateshmishra.mishra@gmail.com;
 
